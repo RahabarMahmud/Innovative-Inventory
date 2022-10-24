@@ -1,0 +1,259 @@
+  {
+    "_id": 1,
+    "author": "Mark Twain",
+    "text": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+    "adjective": "amazing"
+  }
+
+  {
+    "_id": 2,
+    "author": "Confucius",
+    "text": "Choose a job you love, and you will never have to work a day in your life",
+    "adjective": "insightful"
+  }
+
+  {
+    "_id": 3,
+    "author": "Viola Davis",
+    "text": "All dreams are within reach. All you have to do is keep moving towards them.",
+    "adjective": "inspirational"
+  }
+
+  {
+    "_id": 4,
+    "author": "the Internet",
+    "text": "The early bird may get the worm, but the second mouse gets the cheese.",
+    "adjective": "clever"
+  }
+
+  {
+    "_id": 5,
+    "author": "the Internet",
+    "text": "Living on Earth is expensive, but it does include a free trip around the sun.",
+    "adjective": "funny"
+  }
+
+  {
+    "_id": 6,
+    "author": "Maya Angelou",
+    "text": "You can't use up creativity. The more you use the more you have.",
+    "adjective": "creative"
+  }
+
+  {
+    "_id": 7,
+    "author": "Mandy Hale",
+    "text": "You do not always need a plan. Sometimes you just need to breathe, trust, let go and see what happens.",
+    "adjective": "motivating"
+  }
+
+  {
+    "_id": 8,
+    "author": "the Internet",
+    "text": "Sell a man a fish, he will eat for a day, teach a man to fish, you will be out of a job…",
+    "adjective": "interesting"
+  }
+
+  {
+    "_id": 9,
+    "author": "Mark Twain",
+    "text": "In the first place, God made idiots. That was for practice. Then he made school boards.",
+    "adjective": "educational"
+  }
+
+  {
+    "_id": 10,
+    "author": "Dolly Parton",
+    "text": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+    "adjective": "spirtual"
+  }
+
+  {
+    "_id": 11,
+    "author": "Thomas A. Edison",
+    "text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "adjective": "brilliant"
+  }
+
+  {
+    "_id": 12,
+    "author": "Stephen Hawking",
+    "text": "Life would be tragic if it weren't funny.",
+    "adjective": "interesting"
+  }
+
+  {
+    "_id": 13,
+    "author": "Alan Kay",
+    "text": "The best way to predict the future is to create it.",
+    "adjective": "innovative"
+  }
+
+  {
+    "_id": 14,
+    "author": "Martin Fowler",
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "adjective": "observational"
+  }
+
+  {
+    "_id": 15,
+    "author": "Will Rogers",
+    "text": "Even if you're on the right track, you'll get run over if you just sit there.",
+    "adjective": "famous"
+  }
+
+  {
+    "_id": 16,
+    "author": "Oscar Wilde",
+    "text": "Always forgive your enemies; nothing annoys them so much.",
+    "adjective": "controversial"
+  }
+
+  {
+    "_id": 17,
+    "author": "Oscar Wilde",
+    "text": "Experience is the name everyone gives to their mistakes.",
+    "adjective": "famous"
+  }
+
+  {
+    "_id": 18,
+    "author": "Chris Heilman.",
+    "text": "Java is to JavaScript what car is to carpet.",
+    "adjective": "funny"
+  }
+
+  {
+    "_id": 19,
+    "author": "Dan Salomon",
+    "text": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+    "adjective": "advisory"
+  }
+
+  {
+    "_id": 20,
+    "author": "Cory House",
+    "text": "Code is like humour. When you have to explain it, it's bad.",
+    "adjective": "truthful"
+  }
+
+  {
+    "_id": 21,
+    "author": "Martin Fowler",
+    "text": "You should use iterative development only on projects that you want to succeed.",
+    "adjective": "helpful"
+  }
+
+  {
+    "_id": 22,
+    "author": "Ralph Johnson",
+    "text": "Before software can be reusable, it first has to be usable.",
+    "adjective": "sadly un-obvious"
+  }
+
+  {
+    "_id": 23,
+    "author": "Antoine de Saint-Exupery",
+    "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+    "adjective": "profound"
+  }
+
+  {
+    "_id": 24,
+    "author": "George Santayana",
+    "text": "Those who do not remember the past are condemned to relive it.",
+    "adjective": "historical"
+  }
+
+  {
+    "_id": 25,
+    "author": "Sheryl Sandberg",
+    "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+    "adjective": "sarcastic"
+  }
+
+  {
+    "_id": 26,
+    "author": "Henry Ford",
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "adjective": "pithy"
+  }
+
+  {
+    "_id": 27,
+    "author": "Rosa Parks",
+    "text": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    "adjective": "experiential"
+  }
+
+  {
+    "_id": 28,
+    "author": "Wayne Gretzky",
+    "text": "You miss 100% of the shots you don't take.",
+    "adjective": "personal"
+  }
+
+  {
+    "_id": 29,
+    "author": "Vidal Sassoon",
+    "text": "The only place where success comes before work is in the dictionary.",
+    "adjective": "observational"
+  }
+
+  {
+    "_id": 30,
+    "author": "John D. Rockefeller",
+    "text": "Don't be afraid to give up the good to go for the great.",
+    "adjective": "concise"
+  }
+
+  {
+    "_id": 31,
+    "author": "Winston Churchill",
+    "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "adjective": "inspirational"
+  }
+
+  {
+    "_id": 32,
+    "author": "James Cameron",
+    "text": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    "adjective": "inspirational"
+  }
+
+  {
+    "_id": 33,
+    "author": "Zig Ziglar",
+    "text": "Don't be distracted by criticism. The only taste of success some people get is to take a bite out of you.",
+    "adjective": "interesting"
+  }
+
+  {
+    "_id": 34,
+    "author": "Oprah Winfrey",
+    "text": "You know you are on the road to success if you would do your job and not be paid for it.",
+    "adjective": "insightful"
+  }
+
+  {
+    "_id": 35,
+    "author": "Thomas A. Edison",
+    "text": "I failed my way to success.",
+    "adjective": "observational"
+  }
+
+  {
+    "_id": 36,
+    "author": "Herman Melville",
+    "text": "It is better to fail in originality than to succeed in imitation.",
+    "adjective": "advisory"
+  }
+
+  {
+    "_id": 37,
+    "author": "Ray Bradbury",
+    "text": "Life is trying things to see if they work.",
+    "adjective": "trenchant"
+  }
+
